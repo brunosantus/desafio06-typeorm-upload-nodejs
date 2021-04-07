@@ -4,7 +4,7 @@
   Desafio 06: Banco de dados e upload de arquivos no Node.js
 </h3>
 
-<blockquote align="center">“Só deseje as coisas as quais você está disposto a lutar”!</blockquote>
+<blockquote align="center">"Filho, se você parar de aprender, logo esquecerá o que sabe." Provérbios 19:27 NTLH.</blockquote>
 
 ## :rocket: Sobre o desafio
 
